@@ -1,14 +1,15 @@
 
 # Mailuns Docker Simple App
 
-Simple App with docker 
+Simple App Docker menggunakan postgresql, apache, dan expressjs
+
+## Intro
+Pastikan Docker Engine sudah terinstall di environment Anda.
 
 
+### Step 1
 
-
-## Usage
-
-```javascript
+```php
 docker-compose up --build
 ```
 
