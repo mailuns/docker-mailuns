@@ -14,9 +14,9 @@ Untuk memulai build service docker
 docker-compose up --build
 ```
 
-Web app akan jalan pada `http://localhost:8080`
+Web app akan running pada `http://localhost:8080`
 
-API akan jalan pada `http://localhost:3333`
+API akan jalan running `http://localhost:3333`
 
 ## Database Setup
 
