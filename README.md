@@ -22,6 +22,21 @@ API akan jalan running `http://localhost:3333`
 
 Jalankan endpoint API `http://localhost:3333/setup` pada browser untuk membuat table `employee`
 
+## Endpoint API
+- `GET` `http://localhost:3333` index api
+- `GET` `http://localhost:3333/all` untuk melihat data
+- `POST` `http://localhost:3333/create` create new data
+
+body request 
+```json
+{
+  "name": "ismail",
+  "address": "bogor"
+}
+
+```
+
+
 ## Web app
 
 Buka alamat `http://localhost:8080` untuk menjalankan web app. Simple app CRUD yang sudah terhubung dengan API expressjs
