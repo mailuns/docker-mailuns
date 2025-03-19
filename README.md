@@ -20,7 +20,7 @@ API akan jalan running `http://localhost:3333`
 
 ## Database Setup
 
-Jalankan endpoint API `http://localhost:3333/setup` pada browser untuk membuat table `employee`
+Jalankan endpoint API `GET` `http://localhost:3333/setup` pada browser untuk membuat table `employee`
 
 ## Endpoint API
 - `GET` `http://localhost:3333` index api
