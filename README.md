@@ -39,7 +39,7 @@ body request
 
 ## Web app
 
-Buka alamat `http://localhost:8080` untuk menjalankan web app. Simple app CRUD yang sudah terhubung dengan API expressjs
+Buka alamat `http://localhost:8080` untuk menjalankan web app. Simple app yang sudah terhubung dengan API expressjs
 
 ## Pages
 ![App Screenshot](https://github.com/mailuns/docker-mailuns/blob/main/docker-node.png)
